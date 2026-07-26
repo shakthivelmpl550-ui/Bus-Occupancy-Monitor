@@ -22,3 +22,5 @@ The potentiometer is used to adjust the LCD contrast for better visibility. The 
 
 The system helps in real-time bus student monitoring and improves safety by preventing overloading.
 
+DEMO VIDEO LINK WATCH THIS CLICK BELOW!
+https://drive.google.com/file/d/19lBqkgqsiFKcZKVoeadyOi0gYjDaDs_y/view?usp=drive_link
